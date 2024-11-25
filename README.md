@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/tuzibuqiahuluobo)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](a2672172829@gmail.com)
  
-Welcome to my Github page! I am tuzibuqiahuluobo and I am currently Learning NLP and RL!  
+Welcome to my Github page! I am tuzibuqiahuluobo and I am currently Learning C++ Game Development and Japanese!  
  
 <img align="right" alt="img" src="https://github.com/tuzibuqiahuluobo/tuzibuqiahuluobo/blob/main/blob/main/img/pic.jpg" width="50%" height="auto" />
  
