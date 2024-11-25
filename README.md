@@ -6,7 +6,7 @@
  
 Welcome to my Github page! I am tuzibuqiahuluobo and I am currently Learning NLP and RL!  
  
-<img align="right" alt="img" src="https://github.com/zhanglina94/zhanglina94/blob/main/img/pic.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/tuzibuqiahuluobo/tuzibuqiahuluobo/blob/main/img/pic.jpg" width="50%" height="auto" />
  
  
 #### 🌱 Things I am currently working on 🌱 : 
